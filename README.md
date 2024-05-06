@@ -1,6 +1,6 @@
 # AIM:
 
-To stimulate and synthesis 4bit synchronous upcounter using Vivado 2023.2.
+To stimulate and synthesis BCD 7 Segment using Vivado 2023.2.
 
 # Software Required:
 
